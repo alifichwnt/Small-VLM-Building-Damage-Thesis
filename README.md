@@ -6,3 +6,7 @@ Repositori Khusus Skripsi
 2. RS-Qwen2.5-VL
 3. MoonDream2
 4. SmolVLM
+
+## **Dataset Sementara**
+> Xview2: Joplin Tornado (Pre & Post Event)
+> Raw Aerial Airport
