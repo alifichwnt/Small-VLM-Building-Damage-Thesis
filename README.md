@@ -10,4 +10,4 @@ Repositori Khusus Skripsi
 ## **Dataset Sementara**
 > Xview2: Joplin Tornado (Pre & Post Event)
 
-> Raw Aerial Airport
+> Raw Aerial Image from Kaggle
